@@ -12,14 +12,6 @@ Backend Engineer with **2.5+ years of experience** building **scalable SaaS plat
 Strong expertise in **Python, Django, FastAPI**, and **LLM-based AI solutions** (LangChain, RAG, OpenAI APIs).  
 Passionate about **clean architecture, microservices, and cloud deployment**.
 
----
-
-## 🔭 Currently Working On
-- **Stylz** – AI-powered SaaS Barber Shop Management System  
-- **Pulsse** – Microservices-based SaaS platform  
-- AI chatbots & backend optimization
-
----
 
 ## 🛠 Tech Stack
 
