@@ -62,16 +62,14 @@ Passionate about **clean architecture, microservices, and cloud deployment**.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danishofficial764&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danishofficial764&layout=compact&theme=tokyonight)
+![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishofficial764&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danishofficial764&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=danishofficial764&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=danishofficial764&theme=tokyonight&hide_border=true)
 
----
 
 ## 🤝 Open to
 - Backend & AI roles  
