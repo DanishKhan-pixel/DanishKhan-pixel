@@ -52,24 +52,17 @@ Passionate about **clean architecture, microservices, and cloud deployment**.
 - AI chatbot using **OpenAI GPT**  
 **Tech:** Django, DRF, MySQL, OpenAI API
 
-### ⚙️ Pulsse – Microservices SaaS
+### ⚙️ Pulsse AI Monitoring system – Microservices SaaS
 - Auth, subscription & reporting microservices  
 - CI/CD with GitHub Actions  
 - Deployed on AWS EC2  
 **Tech:** FastAPI, Docker, AWS
 
----
-
-## 📊 GitHub Stats
-
-![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishofficial764&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danishofficial764&layout=compact&theme=tokyonight&hide_border=true)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=danishofficial764&theme=tokyonight&hide_border=true)
-
+### 🎓 College Management System (Node.js)
+- Role-based backend system
+- Student, course & faculty management
+- Real-time notifications  
+**Tech:** Node.js, REST APIs
 
 ## 🤝 Open to
 - Backend & AI roles  
