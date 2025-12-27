@@ -1,178 +1,81 @@
-# 👋 Hi, I'm Muhammad Danish
+# 👋 Muhammad Danish  
+**Software Engineer | Python, AI & Backend Developer**
 
-**Software Engineer | Python, AI & Backend Developer**  
 📍 Lahore, Pakistan  
-
-📞 +92-332-7683063  
 📧 danishofficial764@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/danish-khan-alpha/)  
+🔗 [LinkedIn](https://linkedin.com/in/danish-khan-alpha)
 
 ---
 
 ## 🚀 About Me
-
-Backend Developer with **2.5+ years of experience** building scalable systems, REST APIs, and AI-powered applications.  
-I specialize in **Python, Django, FastAPI**, and **applied AI** (LangChain, RAG, OpenAI APIs).
-
-I enjoy designing **microservices architectures**, optimizing performance, and deploying production-ready systems using **AWS, Docker, and CI/CD pipelines**.
+Backend Engineer with **2.5+ years of experience** building **scalable SaaS platforms, REST APIs, and AI-powered systems**.  
+Strong expertise in **Python, Django, FastAPI**, and **LLM-based AI solutions** (LangChain, RAG, OpenAI APIs).  
+Passionate about **clean architecture, microservices, and cloud deployment**.
 
 ---
 
-## 🔭 I’m currently working on
+## 🔭 Currently Working On
 - **Stylz** – AI-powered SaaS Barber Shop Management System  
-- **Pulsse** – Microservices-based SaaS Platform  
-- Backend APIs for **appointments, POS, analytics & subscriptions**
-- AI chatbots using **OpenAI GPT**
+- **Pulsse** – Microservices-based SaaS platform  
+- AI chatbots & backend optimization
 
 ---
 
-## 🌱 I’m currently learning
-- Advanced **AI Agents with LangChain**
-- **LLM-based RAG systems**
-- **Kubernetes & cloud scalability**
-- **Node.js microservices**
+## 🛠 Tech Stack
+
+### 👨‍💻 Backend & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
-## 🤝 I’m looking to collaborate on
-- AI-powered SaaS products  
-- Backend-heavy Django / FastAPI projects  
-- OpenAI, LangChain, RAG-based solutions  
+## 📌 Featured Projects
 
----
-
-## 🧠 Ask me about
-- Django & Django REST Framework  
-- FastAPI & Microservices  
-- OpenAI APIs, LangChain, RAG  
-- SaaS backend architecture  
-- AWS, Docker & CI/CD  
-
----
-
-## ⚡ Fun fact
-I love combining **backend engineering + AI** to build intelligent, data-driven systems 🚀
-
----
-
-## 🛠️ Skills
-
-### 💡 AI / ML
-- LangChain
-- RAG (Retrieval-Augmented Generation)
-- OpenAI API
-- Computer Vision
-- HuggingFace
-
-### 🧩 Backend
-- Python
-- Django
-- Django REST Framework
-- FastAPI
-- Node.js
-
-### ☁️ Microservices & DevOps
-- Microservices Architecture
-- Docker
-- GitHub Actions
-- AWS (EC2, S3, RDS)
-- Jenkins
-- Kubernetes
-- RabbitMQ
-- Render
-- Railway
-
-### 🗄️ Databases
-- PostgreSQL
-- MySQL
-- SQLite
-- Firebase
-
-### 🧪 Testing & Tools
-- Pytest
-- Unit Testing
-- Postman
-- Swagger / OpenAPI
-- Apidog
-
----
-
-## 🏗️ Projects
-
-### ✂️ Stylz – AI-Powered Barber Shop Management (SaaS)
-- Modular SaaS platform with **role-based access**
-- Appointment scheduling & POS system
-- Multi-branch analytics dashboard
-- Integrated **AI chatbot (OpenAI GPT)** for bookings & support  
+### ✂️ Stylz – AI SaaS Barber Shop Platform
+- Appointment & POS management  
+- Multi-branch analytics dashboard  
+- AI chatbot using **OpenAI GPT**  
 **Tech:** Django, DRF, MySQL, OpenAI API
 
----
-
-### ⚙️ Pulsse – Microservices SaaS Platform
-- Designed modular microservices (Auth, Subscription, Reports)
-- CI/CD using **GitHub Actions**
-- Deployed on **AWS EC2**
-- Improved scalability & monitoring  
-**Tech:** Python, FastAPI, Docker, AWS
+### ⚙️ Pulsse – Microservices SaaS
+- Auth, subscription & reporting microservices  
+- CI/CD with GitHub Actions  
+- Deployed on AWS EC2  
+**Tech:** FastAPI, Docker, AWS
 
 ---
 
-### 🎓 College Management System (Node.js)
-- Role-based backend system
-- Student, course & faculty management
-- Real-time notifications  
-**Tech:** Node.js, REST APIs
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danishofficial764&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danishofficial764&layout=compact&theme=tokyonight)
 
 ---
 
-## 💼 Experience
+## 🔥 GitHub Streak
 
-### 🧑‍💻 Backend Developer — **Giga Developers**  
-📍 Pakistan | **2024 – Present**
-- Built SaaS platform for appointments, sales & customers
-- Developed scheduling & POS APIs
-- Designed multi-branch dashboards with analytics
-- Integrated AI chatbot using OpenAI GPT
+![GitHub Streak](https://streak-stats.demolab.com?user=danishofficial764&theme=tokyonight)
 
 ---
 
-### 🧑‍💻 Python Developer — **Koraspond (360° Digital Marketing Agency)**  
-📍 Lahore, Pakistan | **2022 – 2023**
-- Integrated OpenAI APIs for automated content insights
-- Built AI-driven data processing modules
-- Improved API response time by **30%**
+## 🤝 Open to
+- Backend & AI roles  
+- Django / FastAPI projects  
+- AI SaaS collaborations  
 
----
-
-## 🎓 Education
-
-- **Bachelor of Science in Software Engineering**  
-  The University of Haripur (2020 – 2024)
-
-- **Intermediate**  
-  KIPS College, Dera Ghazi Khan (2018 – 2020)
-
----
-
-## 📜 Certifications
-- AI Agents using LangChain  
-- Python Developer  
-- Great Learning  
-- Coursera  
-
----
-
-## 🌍 Languages
-- **English** – Fluent  
-- **Urdu** – Native  
-
----
-
-## 💪 Strengths
-- Problem Solving
-- Strong R&D Mindset
-- Clean & Scalable Backend Design
-
----
-
-⭐ *Feel free to check my repositories and connect with me!*
+⭐ *Let’s build intelligent systems together.*
