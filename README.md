@@ -1,283 +1,66 @@
-<div align="center">
+# Muhammad Danish
 
-# 👋 Hi, I'm Muhammad Danish
+**Software Engineer · Python Backend · AI Engineer**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+Backend+Developer;AI+Engineer;Django+%7C+FastAPI+Developer;LLM+%7C+RAG+%7C+LangChain;Building+Scalable+SaaS+Applications" />
+Backend engineer with 2.5+ years of experience building scalable SaaS platforms and AI-powered products. I specialize in designing REST APIs, integrating LLMs into production systems, and shipping cloud-native services with Django and FastAPI.
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=DanishKhan-pixel&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/DanishKhan-pixel?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/DanishKhan-pixel?style=for-the-badge&logo=github"/>
-</p>
-
-### 🚀 Software Engineer | Python Backend | AI Engineer
-
-📍 Lahore, Pakistan
-
-📧 **danishofficial764@gmail.com**
-
-🔗 **LinkedIn:** https://linkedin.com/in/danish-khan-alpha
-
-</div>
+📍 Lahore, Pakistan  
+📧 [danishofficial764@gmail.com](mailto:danishofficial764@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/danish-khan-alpha) · [GitHub](https://github.com/DanishKhan-pixel)
 
 ---
 
-# 💫 About Me
+## About
 
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+I build backend systems that are reliable, well-structured, and production-ready. My work spans multi-tenant SaaS platforms, microservice architectures, and LLM-driven features such as retrieval-augmented generation and AI assistants. I care about clean APIs, sensible database design, and deployment pipelines that make shipping predictable.
 
-💻 Backend Engineer with **2.5+ years** of professional experience building **enterprise SaaS applications** and **AI-powered products**.
+**Focus areas**
 
-I specialize in:
-
-- 🚀 Scalable REST APIs
-- 🤖 LLM & Generative AI
-- ⚡ Django & FastAPI
-- ☁️ Cloud Deployment
-- 🔥 Microservices Architecture
-- 📊 Database Optimization
-
-I enjoy transforming complex business problems into elegant, scalable software.
+- Backend engineering with Django, Django REST Framework, and FastAPI
+- LLM integration, RAG pipelines, and prompt engineering
+- Microservices, authentication, and API design
+- PostgreSQL performance and data modeling
+- Containerized deployments on AWS with CI/CD
 
 ---
 
-# 🏆 Professional Highlights
+## Tech Stack
 
-✅ 2.5+ Years Backend Experience
+**Languages**  
+Python · JavaScript · Node.js
 
-✅ AI & LLM Integration
+**Backend**  
+Django · Django REST Framework · FastAPI · Flask
 
-✅ SaaS Product Development
+**AI & LLMs**  
+OpenAI · LangChain · RAG · Vector Databases · Prompt Engineering
 
-✅ REST API Specialist
+**Databases**  
+PostgreSQL · MySQL · Redis · Firebase
 
-✅ Microservices Architecture
-
-✅ Authentication & Authorization
-
-✅ Docker & AWS Deployment
-
-✅ PostgreSQL Performance Optimization
-
-✅ CI/CD Automation
+**Cloud & DevOps**  
+AWS · Docker · Kubernetes · GitHub Actions · Linux · Git
 
 ---
 
-# 💻 Tech Stack
+## Selected Projects
 
-## 🐍 Languages
+### Stylz — AI-Powered SaaS for Barber Shops
+A multi-feature SaaS platform covering appointment scheduling, point-of-sale, inventory, customer management, and analytics, with an integrated AI chat assistant.  
+**Stack:** Django, Django REST Framework, MySQL, OpenAI GPT
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### Pulsse — AI Monitoring Platform
+A microservices-based SaaS product with dedicated authentication, subscription, and reporting services. Fully containerized and deployed on AWS EC2 with automated CI/CD.  
+**Stack:** FastAPI, PostgreSQL, Redis, Docker, AWS, GitHub Actions
 
----
-
-## ⚙ Backend
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+### College Management System
+A role-based backend platform handling authentication, student and faculty management, courses, and notifications through a clean REST API.  
+**Stack:** Node.js, Express, MySQL, JWT
 
 ---
 
-## 🤖 AI Stack
+## Open to Opportunities
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+Backend Engineer · AI Engineer · Django / FastAPI Developer · Cloud Backend Engineer
 
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/RAG-AI-blue?style=for-the-badge)
-
-![Vector DB](https://img.shields.io/badge/Vector%20Database-purple?style=for-the-badge)
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange?style=for-the-badge)
-
----
-
-## 🗄 Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-
-![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
-
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
-
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
-
----
-
-## ☁ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-blue?style=for-the-badge&logo=githubactions)
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-
----
-
-# 🚀 Featured Projects
-
-## ✂ Stylz — AI SaaS Barber Shop Platform
-
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
-
-### Features
-
-✔ Appointment Scheduling
-
-✔ POS System
-
-✔ Inventory Management
-
-✔ Customer Management
-
-✔ Analytics Dashboard
-
-✔ AI Chat Assistant
-
-### Tech
-
-`Django`
-
-`DRF`
-
-`MySQL`
-
-`OpenAI GPT`
-
----
-
-## ⚡ Pulsse AI Monitoring Platform
-
-Modern SaaS platform built using Microservices.
-
-### Features
-
-✔ Authentication Service
-
-✔ Subscription Management
-
-✔ Reports Service
-
-✔ Docker Deployment
-
-✔ GitHub Actions CI/CD
-
-✔ AWS EC2 Deployment
-
-### Tech
-
-FastAPI
-
-Docker
-
-AWS
-
-Microservices
-
-Redis
-
-PostgreSQL
-
----
-
-## 🎓 College Management System
-
-Role-based backend platform.
-
-### Features
-
-✔ Authentication
-
-✔ Student Management
-
-✔ Faculty Management
-
-✔ Courses
-
-✔ Notifications
-
-✔ REST APIs
-
-### Tech
-
-Node.js
-
-Express
-
-MySQL
-
-JWT
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=DanishKhan-pixel&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏅 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanishKhan-pixel&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌎 Connect With Me
-
-<p align="center">
-
-<a href="mailto:danishofficial764@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/danish-khan-alpha">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/DanishKhan-pixel">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-# 🤝 Open To Work
-
-### 🚀 Backend Engineer
-
-### 🤖 AI Engineer
-
-### ⚡ Django Developer
-
-### 🔥 FastAPI Developer
-
-### ☁ Cloud Backend Engineer
-
----
-
-## ⭐ If you like my work, don't forget to star my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=140&section=footer"/>
-
-</div>
+If you're building something interesting in Python, AI, or SaaS, feel free to reach out.
